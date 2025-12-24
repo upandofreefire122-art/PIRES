@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+<key>PayloadContent</key><array><dict>
+<key>PayloadType</key><string>com.apple.webClip.managed</string>
+<key>PayloadIdentifier</key><string>webclip.pires</string>
+<key>PayloadUUID</key><string>11111111-1111-1111-1111-111111111111</string>
+<key>PayloadVersion</key><integer>1</integer>
+<key>Label</key><string>PIRES PANEL</string>
+<key>URL</key><string>https://SEUUSUARIO.github.io/painel/painel.html</string>
+<key>IsRemovable</key><true/>
+<key>Precomposed</key><true/>
+</dict></array>
+<key>PayloadDescription</key><string>Atalho Pires FF</string>
+<key>PayloadDisplayName</key><string>PIRES PANEL</string>
+<key>PayloadIdentifier</key><string>pires.profile</string>
+<key>PayloadOrganization</key><string>Pires</string>
+<key>PayloadType</key><string>Configuration</string>
+<key>PayloadUUID</key><string>22222222-2222-2222-2222-222222222222</string>
+<key>PayloadVersion</key><integer>1</integer>
+</dict></plist>
